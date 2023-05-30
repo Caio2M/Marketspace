@@ -1,9 +1,9 @@
 import { Center, View, Text } from "native-base";
 
-export function Home () {
+export function Sell () {
     return (
             <Center flex={1}>
-                <Text>Home</Text>
+                <Text>Sell</Text>
             </Center>
     )
 }
